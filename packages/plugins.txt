@@ -1,0 +1,1 @@
+npm i --save-dev gulp gulp-babel gulp-compress gulp-htmlmin gulp-imagemin gulp-clean-css gulp-sass gulp-typescript gulp-uglify sass typescript gulp-sourcemaps @types/jquery @babel/core @babel/preset-env
